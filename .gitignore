@@ -1,0 +1,7 @@
+# Insider Routines — Git Ignore Rules
+.env
+.state/
+*.log
+__pycache__/
+.idea/
+.vscode/
